@@ -1,0 +1,209 @@
+#main{
+    display: flex;
+    flex-direction: row;
+}
+
+#card1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+#card2{
+    width: 100px;
+    height: 100px;
+    background-color:chartreuse;
+}
+
+#card3{
+    width: 100px;
+    height: 100px;
+    background-color:coral;
+}
+
+#new{
+    position: absolute;
+    left:8vw;
+}
+
+
+
+.Time{
+    border: 2px solid black;
+    display: flex;
+    position: relative;
+    left:5vw;
+    top:5vw;
+    right:10vw;
+    background-color: white;
+    width:520px;
+    height: 110px;
+    border-radius:10px;
+}
+
+#one{
+    color: #3D087B;
+    font-family:'Manrope', sans-serif;
+    position: absolute;
+    top:3vw;
+    left:2vw;
+    font-size: 20px;
+}
+
+#two{
+    position: absolute;
+    top:1vw;
+    left:7vw;
+    width: 70px;
+    height: 76px;
+    background-color: #F6E2FF;
+    border-radius: 5px;
+}
+
+#hour{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    position: absolute;
+    top:10px;
+    left:15px;
+    font-size:25px;
+    padding-left:10px;
+}
+
+#hour1{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    top:38px;
+    left:10px;
+    font-size: 20px;
+    padding-left: 2px;
+}
+
+#colon1{
+    color:#3D087B;
+    position: absolute;
+    left:13vw;
+    top:2.5vw;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#three{
+    position: absolute;
+    top:1vw;
+    left:15vw;
+    width: 70px;
+    height: 76px;
+    background-color: #F6E2FF;
+    border-radius: 5px;
+}
+
+#min{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    position: absolute;
+    top:10px;
+    left:15px;
+    font-size:25px;
+    padding-left: 6px;
+}
+
+#min1{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    top:38px;
+    left:10px;
+    font-size: 20px;
+    padding-left: 3px;
+}
+
+#colon2{
+    color:#3D087B;
+    position: absolute;
+    left:21vw;
+    top:2.5vw;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#four{
+    position: absolute;
+    top:1vw;
+    left:23vw;
+    width: 70px;
+    height: 76px;
+    background-color: #F6E2FF;
+    border-radius: 5px;
+}
+
+#sec{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    position: absolute;
+    top:10px;
+    left:15px;
+    font-size:25px;
+    padding-left:7px;
+}
+
+#sec1{
+    color: #8A11BF;
+    font-family:'Manrope', sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    top:38px;
+    left:10px;
+    font-size: 20px;
+    padding-left: 3px;
+}
+
+#five{
+    color:white;
+    font-family:'Manrope', sans-serif;
+    position: absolute;
+    top:1vw;
+    left:30vw;
+    width: 65px;
+    height: 60px;
+    background-image:url("AM_svg@2x.png");
+    border-radius:5px;
+    text-align: center;
+    padding-top: 1vw;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#ops{
+    position: relative;
+    top:7vw;
+}
+
+#year1{
+    position: relative;
+    top:7vw;
+}
+
+#year{
+    position: relative;
+    top:7vw;
+}
+
+#btn{
+    position: relative;
+    top:9vw;
+    left:-6.5vw;
+}
+
+.yearselected{
+    position: relative;
+    top:10vw;
+}
+
+#form1{
+    position: relative;
+    top:14vw;
+}
+
